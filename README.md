@@ -1,6 +1,8 @@
 # Data_Processing Programming 
 (Gachon Univ 2.2)
 
+# Lesson learned by Date
+
 # Term_project
 *Summary*
 
@@ -32,4 +34,4 @@ SVM, DT, RF, LR, KNN
 SVM, DT, RF, LR, KNN
 
 *How increase?*
-+n%
++ n%
