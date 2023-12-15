@@ -35,4 +35,4 @@ SVM, DT, RF, LR, KNN
 SVM, DT, RF, LR, KNN
 
 *How increase?*
-+ n%
++n%
