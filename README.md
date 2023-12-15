@@ -8,6 +8,7 @@
 *Summary*
 
 *Data Check*
+
 load df & df.shape, columns, columns 설명, info, describe
 
 *Data Cleaning*
@@ -24,7 +25,7 @@ remove (missing value, dupllicated value), check outlier for boxplot
 - 추가적인 EDA를 통해 발견한 내용 정리
 
 *Clustering*
-Kmeans, hierarchical clustering
+(Kmeans, hierarchical clustering
 
 *Data Spliting*
 
