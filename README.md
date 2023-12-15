@@ -4,15 +4,17 @@
 # Lesson learned by Date
 (9/21 ~ 12/07)
 
-# Term_project
-*Summary*
+# Term_project Summary
 
 *Data Check*
 
 load df & df.shape, columns, columns 설명, info, describe
 
+
 *Data Cleaning*
+
 remove (missing value, dupllicated value), check outlier for boxplot
+
 
 *EDA*
 - label check (countplot, piechart)
@@ -24,16 +26,26 @@ remove (missing value, dupllicated value), check outlier for boxplot
 - Pairplot & Heatmap
 - 추가적인 EDA를 통해 발견한 내용 정리
 
+
 *Clustering*
-(Kmeans, hierarchical clustering
+
+Kmeans, hierarchical clustering
+
 
 *Data Spliting*
 
+
 *ML, Classification* (before remove outlier)
+
 SVM, DT, RF, LR, KNN
+
 
 *ML, Classification* (after remove outlier)
+
 SVM, DT, RF, LR, KNN
 
+
 *How increase?*
+
 +n%
+
