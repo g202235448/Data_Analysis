@@ -2,6 +2,7 @@
 (Gachon Univ 2.2)
 
 # Lesson learned by Date
+(9/21 ~ 12/07)
 
 # Term_project
 *Summary*
